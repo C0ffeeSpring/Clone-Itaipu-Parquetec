@@ -3,4 +3,63 @@ porque a dragoa tinha atacado o reino de Galad.
 Você é uma guerreira jovem chamada Neera, com sua incivel habilidade se destacou em seu reino para esta missão.
 O rei Mirk se aproxima da guerreira e diz:
 -Neera, você poderia me ajudar?
-Neera olha com 
+Neera olha com duvida e compreensão e responde:
+-Tudo oque estiver no me alcance senhor
+O rei suspira e ascente
+-Meu filho, ele foi caçar e acabou sendo pego pelo dragão. 
+A guerreira estava surpresa com tal informação e responde:
+-Claro, meu rei, porem poderia ofertar me algumas armas de alto nivel?
+claro. Respondeu o rei com um tom de felicidade mas ao mesmo tempo triste sobre seu filho
+
+
+
+
+batalha:
+    (1)           (2)                     (3)                   (4)
+    escudo           espada               AK-47                 Arco Magico
+  + 100 defesa       + 40 defesa         + 20 defesa            + 10 defesa
+  + ???? ataque      + 70 ataque         + 100 ataque           + 90 ataque
+  + 40 velocidade    + 60 velocidade     + 70 velocidade        + 80 velocidade
+
+se (1)
+Neera mesmo com uma possivel desvantagem contra o dragão, anda com determinação até o dragão
+O dragão olha para ela com desprezo e ri
+Neera se sente um pouco amedontrada e ergue seu escudo
+O dragão achando que sua vitoria estaria garantida, solta uma rajada de fogo azulado
+O fogo chega rapidamente em direção a seu escudo
+Neera sente sua pele entrar em chamas por dentro
+Quando Neera sente que não ia aguentar seu escudo dobra de tamanho fazendo o fogo parecer minusculo
+Atras de seu escudo aparece um misteriosos botão 
+clicar?
+(sim)  (não)
+
+  se (sim)
+O botão foi clicado
+derrepente vocẽ sente o escudo tremer
+como escamas a parte da frente se tranforma. Coloração verde e duas cobras de metal aparecem
+você sente seu poder aumentando drasticamente
+de ???? --> 200 de ataque
+Como uma ordem suas cobras avançam no dragão, mordendo ele
+O dragão se contorce de dor, o veneno começando a fazer efeito
+O dragão como pedra cai no chão se contorcendo de agonia e sofrimento
+Como tortura o dragão clama pela sua vida
+Neera olha com deprezo e com a ponta de seu escudo, fura o olho do ser derrotado
+O dragão desmaia com a dor sentida
+O dragão cospe uma chave
+A chave da alta torre...
+
+se (não)
+O botão não foi clicado
+A força do fogo aumenta
+sua defesa começa a abaixar
+
+
+
+
+
+INICIO: em um dia como qualquer outro. Vocẽ uma gurreira poderosa e muito conhecida no reino, escuta um bater de asas auto vindo do céu
+Quando vocẽ olha para cima avista o grande dragão ancião voando em direção a floresta. Curiosa pelo motivo do dragão estar voando por cima da cidade, você vai até o castelo do rei. Chegando no grande portão do castelo
+Você avista o rei e alguns soltados agitados, o rei percebe a sua presensa e te chama.
+Ele diz agitado: Guerreira Neera, preciso de você agora.
+Neera: magestade o que houve?
+Rei: meu filho foi levado, pelo grande dregão anciâo. Eu preciso da poderosa guerreira para salva-lo, me ajude porfavor.
