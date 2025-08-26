@@ -1,3 +1,4 @@
+
 O rei foi atras de uma guerreira para salvar o filho dele que foi pego por um dragao anciao que queria vingaca pelo rei ter matado a esposa dragoa dele
 porque a dragoa tinha atacado o reino de Galad.
 Você é uma guerreira jovem chamada Neera, com sua incivel habilidade se destacou em seu reino para esta missão.
@@ -52,6 +53,27 @@ se (não)
 O botão não foi clicado
 A força do fogo aumenta
 sua defesa começa a abaixar
+Seu escudo está ficando fraco
+quer fugir?
+(sim) (não)
+    se (sim) 
+Você ameaça correr porém o dragão te encurrala
+Mesmo sendo de ferro, seu escudo começa a derreter
+O tamanho que parecia ser imenso começa a diminuir
+O escudo se dissolve 
+E você sente sua pele começar a derreter 
+Você não aguenta e vira esqueleto 
+(esqueleto)
+    se (não)
+Você começa a andar para a direção do dragão
+Ele tenta ir para trás porém a torre está em suas costas
+Ele tenta de atacar com seu rabo porém você se agarra a ele e pula em direção ao seu rosto
+Você joga o escudo na garganta do dragão que está se engasgando 
+Ele cospe a chave da torre
+Com um último suspiro ele tenta te atacar mas é em vao 
+E ele desmaia
+Você vai em direção a torre...
+
 
 
 
