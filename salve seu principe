@@ -176,7 +176,14 @@ não, vocẽ se esconde atras de uma arvore
 Porém um goblin mercenario estava sob sua cabeça
 Ele diz:
 -Se você não me der 25 dinheirinhos, irei contar para o dragão sua localização
+Você tem apenas 24 moedas
+Você quer matar o goblin
+(1)sim (2)nao
 
+se(1)
+POR QUE??
+Antes de sua morte ele grita...
+Revelando o local
 
 
 
